@@ -1,0 +1,31 @@
+{
+  "name": "html-templater",
+  "version": "1.0.0",
+  "description": "template for landings, multi-page sites",
+  "main": "index.js",
+  "scripts": {
+    "test": "node  index.js 1234"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VisualYuki/html-templater.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "pug",
+    "js",
+    "gulp"
+  ],
+  "author": "Moshkin Denis <moshkin.denis.007@yandex.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VisualYuki/html-templater/issues"
+  },
+  "homepage": "https://github.com/VisualYuki/html-templater#readme",
+  "dependencies": {
+    "@vue/cli": "^5.0.1",
+    "lodash": "^4.17.21",
+    "vite": "^2.8.6"
+  }
+}
